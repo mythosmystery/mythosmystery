@@ -1,5 +1,3 @@
-<img src="https://global-uploads.webflow.com/601be0f0f62d8b2e2a92b830/623d97527345a093561508e9_MicrosoftTeams-image.png" alt="rustlang" height="300px" style="object-fit: cover;" />
-
 ### Hi there! Welcome to my Github 👋
 
 ### About Me  
