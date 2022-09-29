@@ -1,4 +1,4 @@
-### Hi there, welcome to my Github 👋
+### Hi there! Welcome to my Github 👋
 
 ### About Me  
   
@@ -21,3 +21,21 @@ My name is Hunter Barton and I am a 24 year old software developer. I gained a l
   
 *Honorable Mentions*  
    Vue2. I personally love Vue2 and greatly prefer it over Vue3. I find the option API to be an extremely intuitive way of handling reactivity, and Vuex with Vuex-pathify is a simply amazing way of handling global state in an application.
+   
+### My Setup 
+
+**Operating System**  
+I use all three major operating systems. My favorite is Linux, particularly Debian and Arch. I have been using Windows for an extremely long time but I'm not a big fan of it for development. I use MacOS at work and I like it quite a lot, but I do find it more limiting than Linux.  
+<br />
+**Code Editor**  
+I primarily use VSCode, and I like it quite a lot. That being said I would love to get more into Vim and Neovim. 
+<br />
+**Terminal**
+On Linux I use Alacritty. On Windows I use the new Windows Terminal. And lastly on Mac I use ITerm2 or Alacritty, depending on my mood.
+<br />
+**CLI Applications**
+* Bat - A modern replacement for Cat with line numbers and syntax highlighting
+* TMUX - An extremely powerful terminal multiplexer that allows you to have multiple panes and windows open, and to save session for later access.
+* Exa - A replacement for ls with many more features and great syntax highlighting
+* Z - The fastest way to jump between different frequently used directories.
+* NVM - Install and switch between any version of Node.js
