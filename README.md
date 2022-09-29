@@ -20,4 +20,4 @@ My name is Hunter Barton and I am a 24 year old software developer. I gained a l
 3. Svelte. Especially when used with Sveltekit, it provides an extremely easy to write syntax and the power of a metaframework like NextJS. I love how easy it is to build anything from static websites to complex webapps using Svelte.
   
 *Honorable Mentions*  
-   Vue2. I personally love Vue2 and greatly preffer it over Vue3. I find the option API to be an extremely intuitive way of handling reactivity, and Vuex with Vuex-pathify is a simply amazing way of handling global state in an application.
+   Vue2. I personally love Vue2 and greatly prefer it over Vue3. I find the option API to be an extremely intuitive way of handling reactivity, and Vuex with Vuex-pathify is a simply amazing way of handling global state in an application.
