@@ -29,11 +29,11 @@ I use all three major operating systems. My favorite is Linux, particularly Debi
 <br />
 **Code Editor**  
 I primarily use VSCode, and I like it quite a lot. That being said I would love to get more into Vim and Neovim. 
-<br />
-**Terminal**
+<br />  
+**Terminal**  
 On Linux I use Alacritty. On Windows I use the new Windows Terminal. And lastly on Mac I use ITerm2 or Alacritty, depending on my mood.
-<br />
-**CLI Applications**
+<br />  
+**CLI Applications**  
 * Bat - A modern replacement for Cat with line numbers and syntax highlighting
 * TMUX - An extremely powerful terminal multiplexer that allows you to have multiple panes and windows open, and to save session for later access.
 * Exa - A replacement for ls with many more features and great syntax highlighting
