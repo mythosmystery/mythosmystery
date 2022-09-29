@@ -13,11 +13,11 @@ My name is Hunter Barton and I am a 24 year old software developer. I gained a l
 
 ### My Favorite Things
 
-1. Rust. It combines the speed of C with the readability of Typescript, and the safety of a barbage collected language. I absolutely love writing Rust code. The ecosystem is great, with many well thought out libraries and a fantastic community.
+1. Rust. It combines the speed of C with the readability of Typescript, and the safety of a garbage collected language. I absolutely love writing Rust code. The ecosystem is great, with many well thought out libraries and a fantastic community.
   
 2. Typescript. Basically, this is what Javascript should have been. It lends itself to much clearer and more readable code thanks to its strong typing. I love it because it is able to utilize the masses of great Javascript libraries, while providing the modern features and intellisense I've come to expect.
   
 3. Svelte. Especially when used with Sveltekit, it provides an extremely easy to write syntax and the power of a metaframework like NextJS. I love how easy it is to build anything from static websites to complex webapps using Svelte.
   
 *Honorable Mentions*  
-Vue2. I personally love Vue2 and greatly preffer it over Vue3. I find the option API to be an extremely intuitive way of handling reactivity, and Vuex with Vuex-pathify is a simply amazing way of handling global state in an application.
+   Vue2. I personally love Vue2 and greatly preffer it over Vue3. I find the option API to be an extremely intuitive way of handling reactivity, and Vuex with Vuex-pathify is a simply amazing way of handling global state in an application.
